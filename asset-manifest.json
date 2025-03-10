@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/appman/static/css/main.f855e6bc.css",
+    "main.js": "/appman/static/js/main.00651618.js",
+    "static/js/453.7d58d1c3.chunk.js": "/appman/static/js/453.7d58d1c3.chunk.js",
+    "index.html": "/appman/index.html",
+    "main.f855e6bc.css.map": "/appman/static/css/main.f855e6bc.css.map",
+    "main.00651618.js.map": "/appman/static/js/main.00651618.js.map",
+    "453.7d58d1c3.chunk.js.map": "/appman/static/js/453.7d58d1c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.00651618.js"
+  ]
+}
