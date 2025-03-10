@@ -24,7 +24,14 @@ function Detail(){
                 
     }, []);
 
-    return <h1>{loading ? "loading": jman.rating}</h1>
+    return (
+        <div>
+          <h1>{loading ? "Loading..." : "Genres"}</h1>
+          {jman.genres && jman.genres.map((genre) => (
+            <div key={genre}>{genre}</div>
+          ))}
+        </div>
+      );
 }
 
 export default Detail;
